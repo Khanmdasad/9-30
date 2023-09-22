@@ -42,8 +42,9 @@ body {
   background-color: #f1f1fc;
   width: 46px;
   height: 46px;
+  padding: 5px;
   border-radius: 100%;
-  z-index: 1;
+  cursor: pointer;
 }
 .wrapper .container {
   display: flex;
@@ -73,6 +74,7 @@ body {
   border-radius: 10px;
   padding: 15px;
   border: none;
+  cursor: pointer;
 }
 .wrapper .container .content .btn1 p {
   color: #fff;
@@ -90,6 +92,7 @@ body {
   border-radius: 10px;
   padding: 15px;
   border: none;
+  cursor: pointer;
 }
 .wrapper .container .content .btn2 p {
   color: #fff;
@@ -107,6 +110,7 @@ body {
   border-radius: 10px;
   padding: 15px;
   border: none;
+  cursor: pointer;
 }
 .wrapper .container .content .btn3 p {
   color: #fff;
@@ -123,6 +127,7 @@ body {
   gap: 10px;
 }
 .wrapper .container .content .bottom-content input {
+  cursor: pointer;
   width: 25px;
   height: 25px;
   border: 1px solid #9B9BCF;
